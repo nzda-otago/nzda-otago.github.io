@@ -7,7 +7,7 @@ title: Otago Deerstalkers
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   To retain, enhance and create opportunities for the enjoyment of legitimate recreational hunting and the sport of shooting, for the members of the Association
-motto: Out there, doing it
+motto: New Zealand Deerstalkers Association Inc
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "nzda-otago.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -21,9 +21,10 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - readme.md
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
