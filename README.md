@@ -1,6 +1,6 @@
 # nzda-otago.github.io
 
-## Otago DeerStalkers website
+## Otago Deerstalkers branch website
 
 Built with:
 
