@@ -10,7 +10,7 @@ image: 21083518_10155169355079039_4207519490799945681_bw.jpg
 
 Open most Saturdays 1-4pm (weather permitting). The range is closed for routine maintenance in July and over the Xmas period. The range may also close at times of high fire risk. 
 
-Any cancellation due to weather or closures will be made on the Facebook page, Leith Valley Rifle Range. Please join this page for updates. 
+Any cancellation due to weather or closures will be made on the [Facebook page, Leith Valley Rifle Range](https://www.facebook.com/groups/1195200207197835/). Please join this page for updates. 
 
 The range is a 10 minute walk from the road, so make sure you are at the range well before closing time. 
 
