@@ -25,29 +25,31 @@ There is no excuse not to be safe out there now team ...
 The club has a Claybird Thrower for hire … $5 per day. It is a great way to get the eye in before Duck Shooting or as a social bit of fun with mates or colleagues.
 
 # Useful Links
-Maps & planning
+## Maps & planning
 
-doc.govt.nz/ for DOC Site and online permits
-doc.govt.nz/parks-and-recreation/things-to-do/hunting/ Doc hunting areas
-linz.govt.nz/ for Land Information Topo maps etc.
-koordinates.com/ for Maps and trip planning resourses
-maps.doc.govt.nz/ for DOC Maps
-www.walkingaccess.govt.nz/ for Walking Access Maps
-Safety
+ * [Department of Conservation](https://doc.govt.nz/) - for permits, and conditions
+ * [DOC hunting areas](https://doc.govt.nz/parks-and-recreation/things-to-do/hunting/)
+ * [Land Information Topo maps](https://linz.govt.nz/)
+ * [koordinates](koordinates.com/) - Maps and trip planning resourses
+ * [DOC Maps](https://maps.doc.govt.nz/)
+ * [Walking Access Maps](https://www.walkingaccess.govt.nz/)
+ 
+## Safety
 
-yr.no/ for Weather
-mountainsafety - Firearm safety guide
-mountainsafety - Going outdoors guide (PDF)
-mountainsafety - Hypothermia(PDF)
-mountainsafety - Plan to survive (PDF)
-mountainsafety - Safe river crossing
-mountainsafety - Map and compass reading
-mountainsafety - Trip planning, resources and maps
-mountainsafety.org.nz - Ourdoor cooking safety guide(PDF)
-mountainradio.co.nz/ Mountain radio service
-Firearms and hunting
+*   [yr.no/](http://www.yr.no) for Weather
+*   [mountainsafety - Firearm safety guide](http://www.mountainsafety.org.nz/Safety-Tips/Firearms-Safety.asp)
+*   [mountainsafety - Going outdoors guide (PDF)](http://www.mountainsafety.org.nz/ProductFiles/PMPLTS.pdf)
+*   [mountainsafety - Hypothermia(PDF)](http://www.mountainsafety.org.nz/files/PMPLTS31.pdf)
+*   [mountainsafety - Plan to survive (PDF)](http://www.mountainsafety.org.nz/ProductFiles/PMPLTS5.pdf)
+*   [mountainsafety - Safe river crossing](http://www.mountainsafety.org.nz/safety-tips/River-Safety.asp)
+*   [mountainsafety - Map and compass reading](http://www.mountainsafety.org.nz/Safety-Tips/Maps.asp)
+*   [mountainsafety - Trip planning, resources and maps](http://www.mountainsafety.org.nz/Safety-Tips/The-Outdoor-Safety-Code/Plan-your-trip.asp)
+*   [mountainsafety.org.nz - Ourdoor cooking safety guide(PDF)](http://www.mountainsafety.org.nz/files/PMPLTS36.pdf)
+*   [mountainradio.co.nz/](http://www.mountainradio.co.nz/) Mountain radio service
 
-fishnhunt.co.nz/ fish and hunt forum NZ
-southlanddeerstalkers.org.nz/ for NZDA Southland Branch
-doc.govt.nz/ Blue Mountains Permit application (PDF)
-mytargets.com/ for printable Targets
+## Firearms and hunting
+
+ * [fishing and hunting forum](https://fishnhunt.co.nz/)
+ * [NZDA Southland Branch](https://southlanddeerstalkers.org.nz/) 
+ * [Blue Mountains Permit application (PDF)](https://doc.govt.nz/)
+ * [Printable Targets](mytargets.com/)
