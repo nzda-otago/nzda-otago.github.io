@@ -5,8 +5,8 @@
 layout: home
 ---
  
-
-# The principle activities
+# NZDA Otago branch
+## The principle activities
 
 * Advocacy on behalf of New Zealand's hunters and shooters.
 * The promotion of hunting as a legitimate recreational pursuit.
