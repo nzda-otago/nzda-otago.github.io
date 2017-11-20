@@ -36,7 +36,8 @@ The club has a Claybird Thrower for hire … $5 per day. It is a great way to ge
  
 ## Safety
 
-*   [yr.no/](http://www.yr.no) for Weather
+*   [yr.no](http://www.yr.no) for Weather
+*   [NIWA weather](https://weather.niwa.co.nz/)
 *   [mountainsafety - Firearm safety guide](http://www.mountainsafety.org.nz/Safety-Tips/Firearms-Safety.asp)
 *   [mountainsafety - Going outdoors guide (PDF)](http://www.mountainsafety.org.nz/ProductFiles/PMPLTS.pdf)
 *   [mountainsafety - Hypothermia(PDF)](http://www.mountainsafety.org.nz/files/PMPLTS31.pdf)
@@ -45,7 +46,7 @@ The club has a Claybird Thrower for hire … $5 per day. It is a great way to ge
 *   [mountainsafety - Map and compass reading](http://www.mountainsafety.org.nz/Safety-Tips/Maps.asp)
 *   [mountainsafety - Trip planning, resources and maps](http://www.mountainsafety.org.nz/Safety-Tips/The-Outdoor-Safety-Code/Plan-your-trip.asp)
 *   [mountainsafety.org.nz - Ourdoor cooking safety guide(PDF)](http://www.mountainsafety.org.nz/files/PMPLTS36.pdf)
-*   [mountainradio.co.nz/](http://www.mountainradio.co.nz/) Mountain radio service
+*   [mountainradio.co.nz](http://www.mountainradio.co.nz/) Mountain radio service
 
 ## Firearms and hunting
 
