@@ -24,7 +24,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - readme.md
+  - README.md
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
