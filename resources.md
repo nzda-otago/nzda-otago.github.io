@@ -50,7 +50,7 @@ The club has a Claybird Thrower for hire … $5 per day. It is a great way to ge
 
 ## Firearms and hunting
 
- * [fishing and hunting forum](https://fishnhunt.co.nz/)
- * [NZDA Southland Branch](https://southlanddeerstalkers.org.nz/) 
+ * [Fishing and hunting forum](http://fishnhunt.co.nz/)
+ * [NZDA Southland Branch](http://southlanddeerstalkers.org.nz/) 
  * [Blue Mountains Permit application (PDF)](https://doc.govt.nz/)
  * [Printable Targets](mytargets.com/)
