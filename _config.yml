@@ -8,7 +8,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   To retain, enhance and create opportunities for the enjoyment of legitimate recreational hunting and the sport of shooting, for the members of the Association
 motto: Out there, doing it
-baseurl: "/nzda-otago" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "nzda-otago.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
