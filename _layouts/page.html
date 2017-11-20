@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+
+<header class="masthead hero-content" {% if page.image %}style="background: url(/assets/images/{{ page.image }}) no-repeat center center scroll;-webkit-background-size: cover;-moz-background-size: cover; -o-background-size: cover; background-size: cover;"{% endif %}>
+	<div class="intro-body">
+        <div class="container">
+			<div class="row">
+				<div class="col-lg-8 mx-auto">
+					<h1 class="page-heading">{{ page.title | escape }}</h1>
+					<p class="intro-text">{{ page.subtitle }}</p>
+				</div>
+			</div>
+        </div>
+	</div>
+</header>
+
+
+<!-- Content block -->
+<section id="content" class="content-section content-section-page">
+	<div class="container">
+        <div class="row">
+			<div class="col-lg-8 mx-auto">
+				{{ content }}
+			</div>
+        </div>
+	</div>
+</section>
+
