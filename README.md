@@ -8,3 +8,5 @@ Built with:
  * boostrap
  * SCSS
  * jQuery
+
+```bundle exec jekyll serve```
