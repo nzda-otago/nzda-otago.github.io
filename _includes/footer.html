@@ -1,6 +1,6 @@
 
 <!-- Map Section -->
-<div id='map'></div>
+<div id='osm-map'></div>
 
 <!-- Footer -->
 <footer>
@@ -39,6 +39,8 @@
 <!-- Plugin JavaScript -->
 <script src='{{ '/assets/vendor/jquery.easing.min.js' | relative_url }}'></script>
 
-<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCBsaiq5lcBicC0XalEJB_HQuyjyXnhmKY&sensor=false'></script>
+<!-- interactive map -->
+<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+<link href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" rel="stylesheet"/>
 
 <script src='{{ '/assets/grayscale.js' | relative_url }}'></script>
