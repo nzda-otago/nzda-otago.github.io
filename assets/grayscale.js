@@ -48,8 +48,8 @@ element.style = 'height:300px;';
 var map = L.map(element);
 
 // Add OSM tile leayer to the Leaflet map.
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '<a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '<a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
 // Target's GPS coordinates.
