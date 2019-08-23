@@ -10,7 +10,7 @@ layout: default
 				<div class="col-lg-8 mx-auto">
 					<h1 class="brand-heading">Otago Deerstalkers</h1>
 					<p class="intro-text">{{ site.motto }}</p>
-					<a href="#signup" title='Join us' class="btn btn-circle js-scroll-trigger">
+					<a href="#about" title='What we do' class="btn btn-circle js-scroll-trigger">
 						<i class="fa fa-angle-double-down animated"></i>
 					</a>
 				</div>
@@ -19,56 +19,23 @@ layout: default
 	</div>
 </header>
 
-<!-- Signup -->
-<section id="signup" class="content-section text-center">
+
+<!-- About Section -->
+<section id="about" class="content-section content-section-page">
 	<div class="container">
         <div class="row">
 			<div class="col-lg-8 mx-auto">
-				<h2>Join us</h2>
-				<form action="https://formspree.io/torleifw@gmail.com" method="POST">
-					<div class="form-group row">
-						<label for="example-search-input" class="col-2 col-form-label">First name</label>
-						<div class="col-10">
-							<input name='First Name' type='text' class='form-control' />
-						</div>
-					</div>
-					<div class="form-group row">
-						<label for="example-search-input" class="col-2 col-form-label">Last name</label>
-						<div class="col-10">
-							<input name='Last Name' type='text' class='form-control' />
-						</div>
-					</div>
-					<div class="form-group row">
-						<label for="example-search-input" class="col-2 col-form-label">Email</label>
-						<div class="col-10">
-							<input name="_replyto" type='email' class='form-control' />
-						</div>
-					</div>
-					<button type="submit" class="btn btn-primary">Submit</button>
-				</form>
+				{{ content }}
 			</div>
         </div>
 	</div>
 </section>
-
 
 <!-- Link to national office -->
 <section id="national" class="national-section content-section text-center grayscale">
 	<div class="container">
         <div class="col-lg-8 mx-auto">
 			<p>{{ site.description }}</p>
-        </div>
-	</div>
-</section>
-
-
-<!-- About Section -->
-<section id="about" class="content-section">
-	<div class="container">
-        <div class="row">
-			<div class="col-lg-8 mx-auto">
-				{{ content }}
-			</div>
         </div>
 	</div>
 </section>

@@ -12,7 +12,7 @@ image: 244008_284203771688819_831227358_bw.jpg
 Keys – Hut 2/ Complex, Hut 6/ Complex, Bunkroom/ Complex. 
 * **Allan Millars Hunting and Fishing** – 141 Crawford Street. Ph 477 6665 
 Keys – Hut 3/ Complex, Hut 5/ Complex, Bunkroom/ Complex. 
-* **Taieri Arms and Fishing** – 176 Gordon Road, Mosgiel. Ph 489 4562 
+* **Gun City Dunedin** – 96 Cumberland St, Dunedin, 9016 Ph 03-425 7898
 Keys – Hut 1/ Complex, Hut 4/ Complex, Bunkroom/ Complex. 
 * **Central Otago Key Holder** – Tony Alexander. Ph 027 447 9398 
 Keys – Bunkroom/ Complex 

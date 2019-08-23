@@ -3,8 +3,7 @@
 layout: home
 ---
  
-# NZDA Otago branch
-## The principal activities
+# What you'll get from us
 
 * Advocacy on behalf of New Zealand's hunters and shooters.
 * The promotion of hunting as a legitimate recreational pursuit.
@@ -21,13 +20,14 @@ layout: home
   * "Young Deerstalker of the Year"
   * Branch administration
 
+# Club meetings
 
-Club meetings are held at:
+Are held every 2nd Monday at 7.30pm.
 
+Location:
 53 Malvern Street Woodhaugh
 DUNEDIN
 
-Every month on the 2nd Monday at 7.30pm.
 With a guest speaker.
 Join us after the meeting for a drink and something to eat.
 

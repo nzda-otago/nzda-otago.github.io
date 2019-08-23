@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 permalink: /resources/
-menu: true
+menu: false
 image: 456213_287692834673246_1012630008_bw.jpg
 ---
  

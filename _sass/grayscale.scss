@@ -63,8 +63,7 @@ a {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
   margin-bottom: 0;
-
-  text-transform: uppercase;
+  padding: 0;
 
   border-bottom: 1px solid fade-out(white, .7);
   background-color: black;
@@ -100,8 +99,6 @@ a {
     }
   }
   @media(min-width:992px) {
-    padding-top: 20px;
-    padding-bottom: 20px;
 
     -webkit-transition: background 0.3s ease-in-out, padding-top 0.3s ease-in-out, padding-bottom 0.3s;
     -moz-transition: background 0.3s ease-in-out, padding-top 0.3s ease-in-out, padding-bottom 0.3s;
@@ -110,24 +107,38 @@ a {
 
     border-bottom: none;
     background: transparent;
-    &.navbar-shrink {
-      padding-top: 10px;
-      padding-bottom: 10px;
 
-      border-bottom: 1px solid fade-out(white, .7);
-      background: black;
+    a {
+        padding-top: 30px;
+        padding-bottom: 30px;
     }
-    .nav-link.active {
-      outline: none;
-      background-color: rgba(white, .3);
-      &:hover {
-        color: white;
+
+	.page-heading {
+        font-size: 4rem;
+    }
+
+    &.navbar-shrink {
+      background: white;
+      a {
+          color: #333;
+          padding-top: 20px;
+          padding-bottom: 20px;
+      }
+      .nav-link:hover{
+        color: #64a19d;
+        outline: 0;
+      }
+      .nav-link.active{
+        border-bottom: .25rem solid $primary;
+        color: #333;
       }
     }
     .nav-link:hover{
-      background: #2f2f2f;
-      border-radius: 8px;
+        color: $primary;
 	}
+    .nav-link.active{
+        color: $primary;
+    }
 	
   }
 }
@@ -157,7 +168,7 @@ a {
     }
 	.page-heading {
       margin: 4rem 0 0 0;
-      font-size: 4rem;
+      font-size: 3rem;
 	}
     .intro-text {
       font-size: 18px;
