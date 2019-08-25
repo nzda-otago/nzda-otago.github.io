@@ -3,6 +3,7 @@ layout: page
 title: Club Hunts
 permalink: /club-hunts/
 menu: true
+order: 4
 image: 21055324_10155682542242915_3740351984613686777bwo.jpg
 ---
 # Club Hunts

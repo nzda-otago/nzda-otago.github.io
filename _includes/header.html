@@ -13,8 +13,9 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
 			<ul class="navbar-nav ml-auto">
 
-				{% for path in page_paths %}
-				{% assign my_page = site.pages | where: "path", path | first %}
+
+                {% assign sorted_pages = site.pages | sort:"order" %}
+                {% for my_page in sorted_pages %}
 				{% if my_page.title %}
 				{% if my_page.menu %}
 				<li class="nav-item">
@@ -22,7 +23,7 @@
 				</li>
 				{% endif %}
 				{% endif %}
-				{% endfor %}
+                {% endfor %}
 				
 			</ul>
         </div>

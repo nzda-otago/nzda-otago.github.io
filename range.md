@@ -3,6 +3,7 @@ layout: page
 title: Range
 permalink: /range/
 menu: true
+order: 2
 image: 21083518_10155169355079039_4207519490799945681_bw.jpg
 ---
 

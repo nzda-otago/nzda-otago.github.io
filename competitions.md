@@ -3,6 +3,7 @@ layout: page
 title: Competitions
 permalink: /competitions/
 menu: true
+order: 6
 image: 456213_287692834673246_1012630008_bw.jpg
 ---
 

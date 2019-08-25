@@ -3,6 +3,7 @@ layout: page
 title: Lodge
 permalink: /lodge/
 menu: true
+order: 3
 subtitle: Blue Mountains Lodge
 image: 244008_284203771688819_831227358_bw.jpg
 ---

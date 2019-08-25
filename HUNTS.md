@@ -3,6 +3,7 @@ layout: page
 title: HUNTS Course
 permalink: /hunts/
 menu: true
+order: 5
 image: 21316213_10155723030662915_7650598706577605500_bw.jpg
 ---
 
