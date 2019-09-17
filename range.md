@@ -46,4 +46,4 @@ Prohibited use of the range without a qualified range officer, and outside of th
 
 
 
-If you are interested in becoming a Range Officer, please contact us here.
+If you are interested in becoming a Range Officer, [please contact us here](/contact-us/).
