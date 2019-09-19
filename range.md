@@ -4,7 +4,7 @@ title: Range
 permalink: /range/
 menu: true
 order: 2
-image: 21083518_10155169355079039_4207519490799945681_bw.jpg
+image: 18814550_10154905802244039_8663468055096863144_oc.jpg
 ---
 
 # Leith Valley Rifle Range

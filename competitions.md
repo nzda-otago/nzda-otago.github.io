@@ -4,7 +4,7 @@ title: Competitions
 permalink: /competitions/
 menu: true
 order: 6
-image: 456213_287692834673246_1012630008_bw.jpg
+image: 20935064_10155682540912915_7377684527055243887_bw.jpg
 ---
 
 # Trophy Competition
