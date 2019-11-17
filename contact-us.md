@@ -9,3 +9,5 @@ NZDA Otago,
 53 Malvern Street,
 Woodhaugh,
 DUNEDIN.
+
+Email us at info@otagodeerstalkers.co.nz
