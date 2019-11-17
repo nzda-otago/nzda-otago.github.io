@@ -53,5 +53,7 @@ var target = L.latLng('-45.85191', '170.50684');
 // Set map's center to target with zoom 14.
 map.setView(target, 18);
 
+map.scrollWheelZoom.disable();
+
 // Place a marker on the same location.
 L.marker(target).addTo(map);
