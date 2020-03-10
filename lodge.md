@@ -42,6 +42,8 @@ Members will be required to show their membership cards when collecting keys and
 
 All party names, membership numbers and contact phone numbers will be recorded in the booking register. 
 
+Hut and complex bookings made for the roar period (April) must be paid for at the time of booking. The fees are non-refundable. 
+
 ## KEY SETS
 One key fits all locks except individual huts. 
 
