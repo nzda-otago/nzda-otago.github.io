@@ -25,6 +25,10 @@ There is no excuse not to be safe out there now team ...
 The club has a Claybird Thrower for hire … $5 per day. It is a great way to get the eye in before Duck Shooting or as a social bit of fun with mates or colleagues.
 
 # Useful Links
+
+## 
+ * [Radix Nutrition](https://www.radixnutrition.com/meal-ranges/performance.html/) - freeze dried meals
+
 ## Maps & planning
 
  * [Department of Conservation](https://doc.govt.nz/) - for permits, and conditions
