@@ -26,7 +26,8 @@ The club has a Claybird Thrower for hire … $5 per day. It is a great way to ge
 
 # Useful Links
 
-## 
+## Nutrition
+
  * [Radix Nutrition](https://www.radixnutrition.com/meal-ranges/performance.html/) - freeze dried meals
 
 ## Maps & planning
