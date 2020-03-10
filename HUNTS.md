@@ -43,5 +43,6 @@ Core Modules:
 
 HUNTS is designed for new hunters who are aged 18 plus, but younger hunters are welcome with guardian approval. HUNTS requires a level of fitness to carry a pack across country. A firearms licence is preferred but not mandatory.
 
+We have a few spaces remaining for 2020, so be in quick!
 
 Please contact Frans Laas - 027 230 7157, to register interest and for further information
