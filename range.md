@@ -47,6 +47,8 @@ Open most Saturdays 1-4pm (weather permitting). The range is closed for routine 
 
 The Leith Valley Rifile Range is accessed off Leith Valley road. Either from Leith Valley or off state highway one at Leith saddle heading south.    Open from 1pm to 4pm only, $5 for NZ Deerstalker Members $10 for non-Deerstalkers							
 
+![Leith Valley Range Location](assets/images/range-location.png)
+
 Any cancellation due to weather or closures will be made on the [Facebook page, Leith Valley Rifle Range](https://www.facebook.com/groups/1195200207197835/). Please join this page for updates. 
 
 The range is a 10 minute walk from the road, so make sure you are at the range well before closing time. 
