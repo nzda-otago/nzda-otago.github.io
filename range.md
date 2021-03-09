@@ -12,7 +12,7 @@ image: 18814550_10154905802244039_8663468055096863144_oc.jpg
 
 Open most Saturdays 1-4pm (weather permitting). The range is closed for routine maintenance in July and over the Xmas period. The range may also close at times of high fire risk. 
 
-# 2021 Timetable
+## 2021 Timetable
 
 | Date        | Open/Closed | Date        | Open/Closed |
 |-------------|-------------|-------------|-------------|
@@ -43,7 +43,7 @@ Open most Saturdays 1-4pm (weather permitting). The range is closed for routine 
 | 19-Jun-2021 | Closed      | 18-Dec-2021 | Closed      |
 | 26-Jun-2021 | Closed      | 25-Dec-2021 | Closed      |
 
-# Location 
+## Location 
 
 The Leith Valley Rifile Range is accessed off Leith Valley road. Either from Leith Valley or off state highway one at Leith saddle heading south.    Open from 1pm to 4pm only, $5 for NZ Deerstalker Members $10 for non-Deerstalkers							
 
