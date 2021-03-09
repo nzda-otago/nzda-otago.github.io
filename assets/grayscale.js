@@ -49,13 +49,16 @@ L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 
 // Target's GPS coordinates.
 var target = L.latLng('-45.85191', '170.50684');
+var zoom = 18;
 
+// the range page has a special location (ideally this data should live on the page)
 if (window.location.href.indexOf("range") > -1) {
   target = L.latLng('-45.811593', '170.519903');
+  zoom = 14;
 }
 
-// Set map's center to target with zoom 14.
-map.setView(target, 18);
+// Set map's center to target
+map.setView(target, zoom);
 
 map.scrollWheelZoom.disable();
 
