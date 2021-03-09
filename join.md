@@ -14,10 +14,6 @@ By joining Otago NZDA you connect to a local network of like-minded individu
 
 You can enjoy our Lieth Valley Range, Blue Mountains Lodge, meetings, events and competitions offered by the Otago NZDA.
 
-You work to make a difference by getting involved in hunting, education, club nights, competitions, volunteer work and conservation projects.
-
-You give back to your community and share your passion for hunting with that community.
-
-You strengthen NZDA projects and advocacy while also protecting our hunting heritage.
+You work to make a difference by getting involved in hunting, education, club nights, competitions, volunteer work and conservation projects. You strengthen NZDA projects and advocacy while also protecting our hunting heritage.
 
 To join, [visit the National Deerstalkers Otago Branch page and fill in the form](https://www.deerstalkers.org.nz/branches/south-island/otago/)
