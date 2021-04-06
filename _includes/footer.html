@@ -1,3 +1,8 @@
+{% if page.map_zoom %}
+	<!-- Map Section -->
+	<div id='osm-map' data-lat="{{ page.map_lat }}" data-long="{{ page.map_long }}" data-zoom="{{ page.map_zoom }}"></div>
+{% endif %}
+
 <!-- Footer -->
 <footer>
 	<!--<div class='container text-center'>
