@@ -5,6 +5,10 @@ permalink: /range/
 menu: true
 order: 2
 image: 18814550_10154905802244039_8663468055096863144_oc.jpg
+map_lat: -45.811593
+map_long: 170.519903
+map_zoom: 14
+
 ---
 
 # Leith Valley Rifle Range
