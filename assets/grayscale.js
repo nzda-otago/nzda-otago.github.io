@@ -39,28 +39,26 @@ var element = document.getElementById('osm-map');
 // Height has to be set. You can do this in CSS too.
 element.style = 'height:300px;';
 
-// Create Leaflet map on map element.
-var map = L.map(element);
 
-// Add OSM tile leayer to the Leaflet map.
-L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '<a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
 
-// Target's GPS coordinates.
-var target = L.latLng('-45.85191', '170.50684');
-var zoom = 18;
+if($('#osm-map').length) {
+  // Create Leaflet map on map element.
+  var map = L.map(element);
 
-// the range page has a special location (ideally this data should live on the page)
-if (window.location.href.indexOf("range") > -1) {
-  target = L.latLng('-45.811593', '170.519903');
-  zoom = 14;
+  // Add OSM tile leayer to the Leaflet map.
+  L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+      attribution: '<a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  // Target's GPS coordinates.
+  var target = L.latLng($('#osm-map').attr('data-lat'), $('#osm-map').attr('data-long'));
+  var zoom = $('#osm-map').attr('data-zoom');
+
+  // Set map's center to target
+  map.setView(target, zoom);
+
+  map.scrollWheelZoom.disable();
+
+  // Place a marker on the same location.
+  L.marker(target).addTo(map);
 }
-
-// Set map's center to target
-map.setView(target, zoom);
-
-map.scrollWheelZoom.disable();
-
-// Place a marker on the same location.
-L.marker(target).addTo(map);
