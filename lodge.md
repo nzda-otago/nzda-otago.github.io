@@ -6,6 +6,10 @@ menu: true
 order: 3
 subtitle: Blue Mountains Lodge
 image: 244008_284203771688819_831227358_bw.jpg
+map_lat: -45.823249
+map_long: 169.5210334
+map_zoom: 18
+
 ---
 
 ## KEY CUSTODIANS
