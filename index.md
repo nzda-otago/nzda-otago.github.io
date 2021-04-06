@@ -1,6 +1,10 @@
 ---
 # Home page for Otago DeerStalkers branch
 layout: home
+map_lat: -45.85191
+map_long: 170.50684
+map_zoom: 18
+
 ---
  
 # Otago Deerstalkers
