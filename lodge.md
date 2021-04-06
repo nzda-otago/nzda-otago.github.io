@@ -12,6 +12,13 @@ map_zoom: 18
 
 ---
 
+## Location
+65 Rongahere Road,
+Beaumont 9591
+
+The lodge is located about one minute drive south from the Beaumont Bridge. It is on the left with the metal gate and cabbage tree. 
+
+
 ## KEY CUSTODIANS
 * **Elio's Gun Shop** – 219 King Edward Street, South Dunedin. Ph 455 5783 
 Keys – Hut 2/ Complex, Hut 6/ Complex, Bunkroom/ Complex. 
