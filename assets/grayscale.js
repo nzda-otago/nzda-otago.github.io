@@ -33,15 +33,14 @@
 })(jQuery); // End of use strict
 
 
-// Where you want to render the map.
-var element = document.getElementById('osm-map');
-
-// Height has to be set. You can do this in CSS too.
-element.style = 'height:300px;';
-
-
 
 if($('#osm-map').length) {
+  // Where you want to render the map.
+  var element = document.getElementById('osm-map');
+
+  // Height has to be set. You can do this in CSS too.
+  element.style = 'height:300px;';
+
   // Create Leaflet map on map element.
   var map = L.map(element);
 
