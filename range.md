@@ -16,36 +16,63 @@ map_zoom: 14
 
 Open most Saturdays 1-4pm (weather permitting). The range is closed for routine maintenance in July and over the Xmas period. The range may also close at times of high fire risk. 
 
-## 2021 Timetable
+## 2022 Open dates
 
-| Date        | Open/Closed | Date        | Open/Closed |
-|-------------|-------------|-------------|-------------|
-| 2-Jan-2021  | Closed      | 3-Jul-2021  | Closed      |
-| 9-Jan-2021  | Closed      | 10-Jul-2021 | Closed      |
-| 16-Jan-2021 | Closed      | 17-Jul-2021 | Closed      |
-| 23-Jan-2021 | Open        | 24-Jul-2021 | Closed      |
-| 30-Jan-2021 | Open        | 31-Jul-2021 | Closed      |
-| 6-Feb-2021  | Closed      | 7-Aug-2021  | Open        |
-| 13-Feb-2021 | Open        | 14-Aug-2021 | Open        |
-| 20-Feb-2021 | Open        | 21-Aug-2021 | Open        |
-| 27-Feb-2021 | Open        | 28-Aug-2021 | Open        |
-| 6-Mar-2021  | Open        | 4-Sep-2021  | Open        |
-| 13-Mar-2021 | Open        | 11-Sep-2021 | Open        |
-| 20-Mar-2021 | Closed      | 18-Sep-2021 | Open        |
-| 27-Mar-2021 | Open        | 25-Sep-2021 | Open        |
-| 3-Apr-2021  | Closed      | 2-Oct-2021  | Open        |
-| 10-Apr-2021 | Open        | 9-Oct-2021  | Open        |
-| 17-Apr-2021 | Open        | 16-Oct-2021 | Open        |
-| 24-Apr-2021 | Closed      | 23-Oct-2021 | Closed      |
-| 1-May-2021  | Open        | 30-Oct-2021 | Open        |
-| 8-May-2021  | Open        | 6-Nov-2021  | Open        |
-| 15-May-2021 | Open        | 13-Nov-2021 | Open        |
-| 22-May-2021 | Open        | 20-Nov-2021 | Open        |
-| 29-May-2021 | Open        | 27-Nov-2021 | Open        |
-| 5-Jun-2021  | Closed      | 4-Dec-2021  | Open        |
-| 12-Jun-2021 | Closed      | 11-Dec-2021 | Open        |
-| 19-Jun-2021 | Closed      | 18-Dec-2021 | Closed      |
-| 26-Jun-2021 | Closed      | 25-Dec-2021 | Closed      |
+| Dates       | Open/Closed | Reason                 |
+|-------------|-------------|------------------------|
+|  1-Jan-2022 | Closed      | New Year break         |
+|  8-Jan-2022 | Closed      | New Year break         |
+| 15-Jan-2022 | Closed      | New Year break         |
+| 22-Jan-2022 | Open        |                        |
+| 29-Jan-2022 | Open        |                        |
+|  5-Feb-2022 | Closed      | Waitangi               |
+| 12-Feb-2022 | open        |                        |
+| 19-Feb-2022 | open        |                        |
+| 26-Feb-2022 | open        |                        |
+|  5-Mar-2022 | open        |                        |
+| 12-Mar-2022 | open        |                        |
+| 19-Mar-2022 | closed      | Otago   Anniversary    |
+| 26-Mar-2022 | open        |                        |
+|  2-Apr-2022 | open        |                        |
+|  9-Apr-2022 | open        |                        |
+| 16-Apr-2022 | closed      | easter                 |
+| 23-Apr-2022 | Closed      | ANZAC day              |
+| 30-Apr-2022 | open        |                        |
+|  7-May-2022 | open        |                        |
+| 14-May-2022 | open        |                        |
+| 21-May-2022 | open        |                        |
+| 28-May-2022 | open        |                        |
+|  4-Jun-2022 | closed      | Winter +   maintenance |
+| 11-Jun-2022 | closed      | Winter +   maintenance |
+| 18-Jun-2022 | closed      | Winter +   maintenance |
+| 25-Jun-2022 | closed      | Winter +   maintenance |
+|  2-Jul-2022 | closed      | Winter +   maintenance |
+|  9-Jul-2022 | closed      | Winter +   maintenance |
+| 16-Jul-2022 | closed      | Winter +   maintenance |
+| 23-Jul-2022 | closed      | Winter +   maintenance |
+| 30-Jul-2022 | closed      | Winter +   maintenance |
+|  6-Aug-2022 | open        |                        |
+| 13-Aug-2022 | open        |                        |
+| 20-Aug-2022 | open        |                        |
+| 27-Aug-2022 | open        |                        |
+|  3-Sep-2022 | open        |                        |
+| 10-Sep-2022 | open        |                        |
+| 17-Sep-2022 | open        |                        |
+| 24-Sep-2022 | open        |                        |
+|  1-Oct-2022 | open        |                        |
+|  8-Oct-2022 | open        |                        |
+| 15-Oct-2022 | open        |                        |
+| 22-Oct-2022 | closed      |                        |
+| 29-Oct-2022 | open        |                        |
+|  5-Nov-2022 | open        |                        |
+| 12-Nov-2022 | open        |                        |
+| 19-Nov-2022 | open        |                        |
+| 26-Nov-2022 | open        |                        |
+|  3-Dec-2022 | open        |                        |
+| 10-Dec-2022 | open        |                        |
+| 17-Dec-2022 | Closed      |                        |
+| 24-Dec-2022 | Closed      |                        |
+| 31-Dec-2022 | Closed      |                        |
 
 ## Location 
 
