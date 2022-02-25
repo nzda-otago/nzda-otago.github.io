@@ -29,7 +29,7 @@ Open most Saturdays 1-4pm (weather permitting). The range is closed for routine 
 |  5-Feb-2022 | Closed      | Waitangi               |
 | 12-Feb-2022 | open        |                        |
 | 19-Feb-2022 | open        |                        |
-| 26-Feb-2022 | open        |                        |
+| 26-Feb-2022 | Closed      | Outbreak               |
 |  5-Mar-2022 | open        |                        |
 | 12-Mar-2022 | open        |                        |
 | 19-Mar-2022 | closed      | Otago   Anniversary    |
