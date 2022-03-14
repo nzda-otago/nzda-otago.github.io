@@ -28,7 +28,7 @@ What you'll get from us
 
 # Club meetings
 
-Are held every 2nd Monday at 7.30pm. Meetings are not held during the months of January or April.
+Are held every 2nd Monday of the Month at 7.30pm. Meetings are not held during the months of January or April.
 
 Location:
 53 Malvern Street Woodhaugh
