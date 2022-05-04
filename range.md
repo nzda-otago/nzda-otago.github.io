@@ -21,7 +21,6 @@ Open most Saturdays 1-4pm (weather permitting). The range is closed for routine 
 | Dates       | Open/Closed | Reason                 |
 |-------------|-------------|------------------------|
 |1-Jan-2022|Closed|New Year break| | | | |
-|:----|:----|:----|:----|:----|:----|:----|
 |8-Jan-2022|Closed|New Year break| | | | |
 |15-Jan-2022|Closed|New Year break| | | | |
 |22-Jan-2022|Open| | | | | |
