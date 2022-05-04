@@ -13,7 +13,6 @@ map_zoom: 14
 
 # Leith Valley Rifle Range
 
-Due to the omicron outbreak, the **range is currently closed** until further notice.
 
 Open most Saturdays 1-4pm (weather permitting). The range is closed for routine maintenance in July and over the Xmas period. The range may also close at times of high fire risk. 
 
@@ -21,59 +20,61 @@ Open most Saturdays 1-4pm (weather permitting). The range is closed for routine 
 
 | Dates       | Open/Closed | Reason                 |
 |-------------|-------------|------------------------|
-|  1-Jan-2022 | Closed      | New Year break         |
-|  8-Jan-2022 | Closed      | New Year break         |
-| 15-Jan-2022 | Closed      | New Year break         |
-| 22-Jan-2022 | Open        |                        |
-| 29-Jan-2022 | Open        |                        |
-|  5-Feb-2022 | Closed      | Waitangi               |
-| 12-Feb-2022 | open        |                        |
-| 19-Feb-2022 | open        |                        |
-| 26-Feb-2022 | Closed      | Outbreak               |
-|  5-Mar-2022 | open        |                        |
-| 12-Mar-2022 | open        |                        |
-| 19-Mar-2022 | closed      | Otago   Anniversary    |
-| 26-Mar-2022 | open        |                        |
-|  2-Apr-2022 | open        |                        |
-|  9-Apr-2022 | open        |                        |
-| 16-Apr-2022 | closed      | easter                 |
-| 23-Apr-2022 | Closed      | ANZAC day              |
-| 30-Apr-2022 | open        |                        |
-|  7-May-2022 | open        |                        |
-| 14-May-2022 | open        |                        |
-| 21-May-2022 | open        |                        |
-| 28-May-2022 | open        |                        |
-|  4-Jun-2022 | closed      | Winter +   maintenance |
-| 11-Jun-2022 | closed      | Winter +   maintenance |
-| 18-Jun-2022 | closed      | Winter +   maintenance |
-| 25-Jun-2022 | closed      | Winter +   maintenance |
-|  2-Jul-2022 | closed      | Winter +   maintenance |
-|  9-Jul-2022 | closed      | Winter +   maintenance |
-| 16-Jul-2022 | closed      | Winter +   maintenance |
-| 23-Jul-2022 | closed      | Winter +   maintenance |
-| 30-Jul-2022 | closed      | Winter +   maintenance |
-|  6-Aug-2022 | open        |                        |
-| 13-Aug-2022 | open        |                        |
-| 20-Aug-2022 | open        |                        |
-| 27-Aug-2022 | open        |                        |
-|  3-Sep-2022 | open        |                        |
-| 10-Sep-2022 | open        |                        |
-| 17-Sep-2022 | open        |                        |
-| 24-Sep-2022 | open        |                        |
-|  1-Oct-2022 | open        |                        |
-|  8-Oct-2022 | open        |                        |
-| 15-Oct-2022 | open        |                        |
-| 22-Oct-2022 | closed      |                        |
-| 29-Oct-2022 | open        |                        |
-|  5-Nov-2022 | open        |                        |
-| 12-Nov-2022 | open        |                        |
-| 19-Nov-2022 | open        |                        |
-| 26-Nov-2022 | open        |                        |
-|  3-Dec-2022 | open        |                        |
-| 10-Dec-2022 | open        |                        |
-| 17-Dec-2022 | Closed      |                        |
-| 24-Dec-2022 | Closed      |                        |
-| 31-Dec-2022 | Closed      |                        |
+|1-Jan-2022|Closed|New Year break| | | | |
+|:----|:----|:----|:----|:----|:----|:----|
+|8-Jan-2022|Closed|New Year break| | | | |
+|15-Jan-2022|Closed|New Year break| | | | |
+|22-Jan-2022|Open| | | | | |
+|29-Jan-2022|Open| | | | | |
+|5-Feb-2022|Closed|Waitangi| | | | |
+|12-Feb-2022|open| | | | | |
+|19-Feb-2022|open| | | | | |
+|26-Feb-2022|open|Covid| | | | |
+|5-Mar-2022|open|Covid| | | | |
+|12-Mar-2022|open|Covid| | | | |
+|19-Mar-2022|closed|Covid| | | | |
+|26-Mar-2022|open|Covid| | | | |
+|2-Apr-2022|open|Covid| | | | |
+|9-Apr-2022|open|Covid| | | | |
+|16-Apr-2022|closed|Covid| | | | |
+|23-Apr-2022|Closed|Covid| | | | |
+|30-Apr-2022|open|Covid| | | | |
+|7-May-2022|open| | | | | |
+|14-May-2022|open| | | | | |
+|21-May-2022|open| | | | | |
+|28-May-2022|open| | | | | |
+|4-Jun-2022|closed|Winter + maintenance| | | | |
+|11-Jun-2022|closed|Winter + maintenance| | | | |
+|18-Jun-2022|closed|Winter + maintenance| | | | |
+|25-Jun-2022|closed|Winter + maintenance| | | | |
+|2-Jul-2022|closed|Winter + maintenance| | | | |
+|9-Jul-2022|closed|Winter + maintenance| | | | |
+|16-Jul-2022|closed|Winter + maintenance| | | | |
+|23-Jul-2022|closed|Winter + maintenance| | | | |
+|30-Jul-2022|closed|Winter + maintenance| | | | |
+|6-Aug-2022|open| | | | | |
+|13-Aug-2022|open| | | | | |
+|20-Aug-2022|open| | | | | |
+|27-Aug-2022|open| | | | | |
+|3-Sep-2022|open| | | | | |
+|10-Sep-2022|open| | | | | |
+|17-Sep-2022|open| | | | | |
+|24-Sep-2022|open| | | | | |
+|1-Oct-2022|open| | | | | |
+|8-Oct-2022|open| | | | | |
+|15-Oct-2022|open| | | | | |
+|22-Oct-2022|closed|Labour Day| | | | |
+|29-Oct-2022|open| | | | | |
+|5-Nov-2022|open| | | | | |
+|12-Nov-2022|open| | | | | |
+|19-Nov-2022|open| | | | | |
+|26-Nov-2022|open| | | | | |
+|3-Dec-2022|open| | | | | |
+|10-Dec-2022|open| | | | | |
+|17-Dec-2022|Closed|Christmas| | | | |
+|24-Dec-2022|Closed|Christmas| | | | |
+|31-Dec-2022|Closed|Christmas| | | | |
+
 
 ## Location 
 
