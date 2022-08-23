@@ -67,16 +67,17 @@ a {
 
   border-bottom: 1px solid fade-out(white, .7);
   background-color: black;
+  
   .navbar-toggler {
-    font-size: 14px;
-
+    font-size: 17px;
     padding: 11px;
-
     color: white;
     border: 1px solid white;
+    margin: 8px;
   }
   .navbar-brand {
     font-weight: 700;
+	margin: 4px
   }
   a {
     color: white;
@@ -98,6 +99,10 @@ a {
       }
     }
   }
+  .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+  }
   @media(min-width:992px) {
 
     -webkit-transition: background 0.3s ease-in-out, padding-top 0.3s ease-in-out, padding-bottom 0.3s;
@@ -113,8 +118,11 @@ a {
         padding-bottom: 30px;
     }
 
+    .navbar-brand {
+      margin: 0
+    }
 	.page-heading {
-        font-size: 4rem;
+      font-size: 4rem;
     }
 
     &.navbar-shrink {
