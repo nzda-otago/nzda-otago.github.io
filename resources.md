@@ -6,20 +6,6 @@ menu: false
 image: 456213_287692834673246_1012630008_bw.jpg
 ---
  
-# Personal Locator Beacons
-
-The branch has two PLB (Personal Locator Beacons) for hire from the club.
-
-Hireage: $10/day, $20/ 2x days or $40/week.
-
-These can be signed out from:
-
-Roy Swailes, roy.swailes@mrcglobal.com - 021657415, or
-Greg Fagg, gregoryfagg@hotmail.co.nz - 02102776782
-If email requesting please include both contact pers.
-
-There is no excuse not to be safe out there now team ...
-
 # Claybird Thrower
 
 The club has a Claybird Thrower for hire … $5 per day. It is a great way to get the eye in before Duck Shooting or as a social bit of fun with mates or colleagues.
