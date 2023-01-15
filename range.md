@@ -17,6 +17,8 @@ map_zoom: 14
 Open most Saturdays 1-4pm (weather permitting). The range is closed for routine maintenance in July and over the Xmas period. The range may also close at times of high fire risk. 
 
 ## 2023 Open dates
+
+
 | Dates       | Open/Closed | Reason               |
 | ----------- | ----------- | -------------------- |
 | 7-Jan-2023  | Closed      | New Year break       | | | | |
