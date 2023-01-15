@@ -16,63 +16,62 @@ map_zoom: 14
 
 Open most Saturdays 1-4pm (weather permitting). The range is closed for routine maintenance in July and over the Xmas period. The range may also close at times of high fire risk. 
 
-## 2022 Open dates
-
-| Dates       | Open/Closed | Reason                 |
-|-------------|-------------|------------------------|
-|1-Jan-2022|Closed|New Year break| | | | |
-|8-Jan-2022|Closed|New Year break| | | | |
-|15-Jan-2022|Closed|New Year break| | | | |
-|22-Jan-2022|Open| | | | | |
-|29-Jan-2022|Open| | | | | |
-|5-Feb-2022|Closed|Waitangi| | | | |
-|12-Feb-2022|open| | | | | |
-|19-Feb-2022|open| | | | | |
-|26-Feb-2022|open|Covid| | | | |
-|5-Mar-2022|open|Covid| | | | |
-|12-Mar-2022|open|Covid| | | | |
-|19-Mar-2022|closed|Covid| | | | |
-|26-Mar-2022|open|Covid| | | | |
-|2-Apr-2022|open|Covid| | | | |
-|9-Apr-2022|open|Covid| | | | |
-|16-Apr-2022|closed|Covid| | | | |
-|23-Apr-2022|Closed|Covid| | | | |
-|30-Apr-2022|open|Covid| | | | |
-|7-May-2022|open| | | | | |
-|14-May-2022|open| | | | | |
-|21-May-2022|open| | | | | |
-|28-May-2022|open| | | | | |
-|4-Jun-2022|closed|Winter + maintenance| | | | |
-|11-Jun-2022|closed|Winter + maintenance| | | | |
-|18-Jun-2022|closed|Winter + maintenance| | | | |
-|25-Jun-2022|closed|Winter + maintenance| | | | |
-|2-Jul-2022|closed|Winter + maintenance| | | | |
-|9-Jul-2022|closed|Winter + maintenance| | | | |
-|16-Jul-2022|closed|Winter + maintenance| | | | |
-|23-Jul-2022|closed|Winter + maintenance| | | | |
-|30-Jul-2022|closed|Winter + maintenance| | | | |
-|6-Aug-2022|open| | | | | |
-|13-Aug-2022|open| | | | | |
-|20-Aug-2022|open| | | | | |
-|27-Aug-2022|open| | | | | |
-|3-Sep-2022|open| | | | | |
-|10-Sep-2022|open| | | | | |
-|17-Sep-2022|open| | | | | |
-|24-Sep-2022|open| | | | | |
-|1-Oct-2022|open| | | | | |
-|8-Oct-2022|open| | | | | |
-|15-Oct-2022|open| | | | | |
-|22-Oct-2022|closed|Labour Day| | | | |
-|29-Oct-2022|open| | | | | |
-|5-Nov-2022|open| | | | | |
-|12-Nov-2022|open| | | | | |
-|19-Nov-2022|open| | | | | |
-|26-Nov-2022|open| | | | | |
-|3-Dec-2022|open| | | | | |
-|10-Dec-2022|open| | | | | |
-|17-Dec-2022|Closed|Christmas| | | | |
-|24-Dec-2022|Closed|Christmas| | | | |
-|31-Dec-2022|Closed|Christmas| | | | |
+## 2023 Open dates
+| Dates       | Open/Closed | Reason               |
+| ----------- | ----------- | -------------------- |
+| 7-Jan-2023  | Closed      | New Year break       |
+| 14-Jan-2023 | Closed      | New Year break       |
+| 21-Jan-2023 | open        |                      |
+| 28-Jan-2023 | open        |                      |
+| 4-Feb-2023  | closed      | Waitangi             |
+| 11-Feb-2023 | open        |                      |
+| 18-Feb-2023 | open        |                      |
+| 25-Feb-2023 | open        |                      |
+| 4-Mar-2023  | open        |                      |
+| 11-Mar-2023 | open        |                      |
+| 18-Mar-2023 | closed      | Otago Anniversary    |
+| 25-Mar-2023 | open        |                      |
+| 1-Apr-2023  | open        |                      |
+| 8-Apr-2023  | closed      | Easter               |
+| 15-Apr-2023 | open        |                      |
+| 22-Apr-2023 | closed      | ANZAC day            |
+| 29-Apr-2023 | open        |                      |
+| 6-May-2023  | open        |                      |
+| 13-May-2023 | open        |                      |
+| 20-May-2023 | open        |                      |
+| 27-May-2023 | open        |                      |
+| 3-Jun-2023  | closed      | Winter + maintenance |
+| 10-Jun-2023 | closed      | Winter + maintenance |
+| 17-Jun-2023 | closed      | Winter + maintenance |
+| 24-Jun-2023 | closed      | Winter + maintenance |
+| 1-Jul-2023  | closed      | Winter + maintenance |
+| 8-Jul-2023  | closed      | Winter + maintenance |
+| 15-Jul-2023 | closed      | Winter + maintenance |
+| 22-Jul-2023 | closed      | Winter + maintenance |
+| 29-Jul-2023 | closed      | Winter + maintenance |
+| 5-Aug-2023  | open        |                      |
+| 12-Aug-2023 | open        |                      |
+| 19-Aug-2023 | open        |                      |
+| 26-Aug-2023 | open        |                      |
+| 2-Sep-2023  | open        |                      |
+| 9-Sep-2023  | open        |                      |
+| 16-Sep-2023 | open        |                      |
+| 23-Sep-2023 | open        |                      |
+| 30-Sep-2023 | open        |                      |
+| 7-Oct-2023  | open        |                      |
+| 14-Oct-2023 | open        |                      |
+| 21-Oct-2023 | closed      | Labour Day           |
+| 28-Oct-2023 | open        |                      |
+| 4-Nov-2023  | open        |                      |
+| 11-Nov-2023 | open        |                      |
+| 18-Nov-2023 | open        |                      |
+| 25-Nov-2023 | open        |                      |
+| 2-Dec-2023  | open        |                      |
+| 9-Dec-2023  | open        |                      |
+| 16-Dec-2023 | closed      | Christmas            |
+| 23-Dec-2023 | Closed      | Christmas            |
+| 30-Dec-2023 | Closed      | Christmas            |
+| 31-Dec-2022 | Closed      | Christmas            |
 
 
 
