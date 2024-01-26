@@ -79,7 +79,7 @@ Dates       | Open/Closed | Reason
 
 ## Location 
 
-The Leith Valley Rifile Range is accessed off Leith Valley road. Either from Leith Valley or off state highway one at Leith saddle heading south.    Open from 1pm to 4pm only, $5 for NZ Deerstalker Members $10 for non-Deerstalkers							
+The Leith Valley Rifile Range is accessed off Leith Valley road. Either from Leith Valley or off state highway one at Leith saddle heading south. Open from 1pm to 4pm only, $5 for NZ Deerstalkers Members $10 for non-Deerstalkers							
 
 ![Leith Valley Range Location](assets/images/range-location.png)
 
