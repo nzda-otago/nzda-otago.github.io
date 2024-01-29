@@ -20,8 +20,8 @@ Open most Saturdays 1-4pm (weather permitting). The range is closed for routine 
 
 Dates       | Open/Closed | Reason              
 ----------- | ----------- | --------------------
-7-Jan-2023  | Closed      | New Year break      
-14-Jan-2023 | Closed      | New Year break      
+6-Jan-2024  | Closed      | New Year break      
+13-Jan-2024 | Closed      | New Year break      
 21-Jan-2023 | open        |                     
 28-Jan-2023 | open        |                     
 4-Feb-2023  | closed      | Waitangi            
