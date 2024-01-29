@@ -16,66 +16,68 @@ map_zoom: 14
 
 Open most Saturdays 1-4pm (weather permitting). The range is closed for routine maintenance in July and over the Xmas period. The range may also close at times of high fire risk. 
 
-## 2023 Open dates
+## 2024 Open dates
 
 Dates       | Open/Closed | Reason              
 ----------- | ----------- | --------------------
 6-Jan-2024  | Closed      | New Year break      
 13-Jan-2024 | Closed      | New Year break      
-21-Jan-2023 | open        |                     
-28-Jan-2023 | open        |                     
-4-Feb-2023  | closed      | Waitangi            
-11-Feb-2023 | open        |                     
-18-Feb-2023 | open        |                     
-25-Feb-2023 | open        |                     
-4-Mar-2023  | open        |                     
-11-Mar-2023 | open        |                     
-18-Mar-2023 | closed      | Otago Anniversary   
-25-Mar-2023 | open        |                     
-1-Apr-2023  | open        |                     
-8-Apr-2023  | closed      | Easter              
-15-Apr-2023 | open        |                     
-22-Apr-2023 | closed      | ANZAC day           
-29-Apr-2023 | open        |                     
-6-May-2023  | open        |                     
-13-May-2023 | open        |                     
-20-May-2023 | open        |                     
-27-May-2023 | open        |                     
-3-Jun-2023  | closed      | Winter + maintenance
-10-Jun-2023 | closed      | Winter + maintenance
-17-Jun-2023 | closed      | Winter + maintenance
-24-Jun-2023 | closed      | Winter + maintenance
-1-Jul-2023  | closed      | Winter + maintenance
-8-Jul-2023  | closed      | Winter + maintenance
-15-Jul-2023 | closed      | Winter + maintenance
-22-Jul-2023 | closed      | Winter + maintenance
-29-Jul-2023 | closed      | Winter + maintenance
-5-Aug-2023  | open        |                     
-12-Aug-2023 | open        |                     
-19-Aug-2023 | open        |                     
-26-Aug-2023 | open        |                     
-2-Sep-2023  | open        |                     
-9-Sep-2023  | open        |                     
-16-Sep-2023 | open        |                     
-23-Sep-2023 | open        |                     
-30-Sep-2023 | open        |                     
-7-Oct-2023  | open        |                     
-14-Oct-2023 | open        |                     
-21-Oct-2023 | closed      | Labour Day          
-28-Oct-2023 | open        |                     
-4-Nov-2023  | open        |                     
-11-Nov-2023 | open        |                     
-18-Nov-2023 | open        |                     
-25-Nov-2023 | open        |                     
-2-Dec-2023  | open        |                     
-9-Dec-2023  | open        |                     
-16-Dec-2023 | closed      | Christmas           
-23-Dec-2023 | Closed      | Christmas           
-30-Dec-2023 | Closed      | Christmas           
-31-Dec-2022 | Closed      | Christmas           
-
-
-
+20-Jan-2024 | Open        |                     
+27-Jan-2024 | Open        |                     
+3-Feb-2024  | Closed      | Waitangi Weekend            
+10-Feb-2024 | Open        |                     
+17-Feb-2024 | Open        |                     
+24-Feb-2024 | Open        |                     
+2-Mar-2024  | Open        |                     
+9-Mar-2024  | Open        |                     
+16-Mar-2024 | Open        |   
+23-Mar-2024 | Closed      | Otago Anniversary                   
+30-Mar-2024 | Closed      | Easter                    
+8-Apr-2024  | Open        |               
+13-Apr-2024 | Open        |                     
+20-Apr-2024 | Open        |            
+27-Apr-2024 | Closed      | ANZAC Day                    
+4-May-2024  | Open        |                     
+11-May-2024 | Open        |                     
+18-May-2024 | Open        |                     
+25-May-2024 | Open        |                     
+1-Jun-2024  | Closed      | Winter Maintenance
+8-Jun-2024  | Closed      | Winter Maintenance
+15-Jun-2024 | Closed      | Winter Maintenance
+22-Jun-2024 | Closed      | Winter Maintenance
+29-Jun-2024 | Closed      | Winter Maintenance
+6-Jul-2024  | Closed      | Winter Maintenance
+13-Jul-2024 | Closed      | Winter Maintenance
+20-Jul-2024 | Closed      | Winter Maintenance
+27-Jul-2024 | Closed      | Winter Maintenance
+29-Jul-2024 | Closed      | Winter Maintenance
+3-Aug-2024  | Open        |                     
+10-Aug-2024 | Open        |                     
+17-Aug-2024 | Open        |                     
+24-Aug-2024 | Open        |                     
+31-Aug-2024 | Open        |                     
+7-Sep-2024  | Open        |                     
+14-Sep-2024 | Open        |                     
+21-Sep-2024 | Open        |                     
+28-Sep-2024 | Open        |                     
+5-Oct-2024  | Open        |                     
+12-Oct-2024 | Open        |                     
+19-Oct-2024 | Open        |          
+26-Oct-2024 | Closed      | Labour Weekend                     
+2-Nov-2024  | Open        |                     
+9-Nov-2024  | Open        |                     
+16-Nov-2024 | Open        |                     
+23-Nov-2024 | Open        |                     
+30-Nov-2024 | Open        |                     
+7-Dec-2024  | Open        |                     
+14-Dec-2024 | Open        |            
+21-Dec-2024 | Closed      | Christmas           
+28-Dec-2024 | Closed      | Christmas           
+31-Dec-2024 | Closed      | Christmas           
+4-January   | Closed      | Christmas
+11-January  | Closed      | Christmas
+18-January  | Closed      | Christmas
+25-January  | Open        | Range Open For 2025
 
 ## Location 
 
@@ -88,7 +90,7 @@ Any cancellation due to weather or closures will be made on the [Facebook page, 
 The range is a 10 minute walk from the road, so make sure you are at the range well before closing time. 
 
 Hearing protection and eye protection are mandatory. 
-* Bring your earmuffs! 
+* Bring your earmuffs! - Hearing protection to be worn as nearing the range.
 * Dogs are not permitted. 
 * Smoking is not permitted. 
 * Small children are not permitted for obvious safety reasons. Older children must be under the direct supervision of an adult at ALL times. 
@@ -103,7 +105,7 @@ Targets are supplied.
 
 Firing from 25, 50 and 100 meters. 
 
-3 benches available 
+8 benches available 
 
 Range officers can assist with sighting in. 
 
