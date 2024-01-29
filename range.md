@@ -14,7 +14,8 @@ map_zoom: 14
 # Leith Valley Rifle Range
 
 
-Open most Saturdays 1-4pm (weather permitting). The range is closed for routine maintenance in July and over the Xmas period. The range may also close at times of high fire risk. 
+Open most Saturdays 1-4pm (weather permitting). The range is closed for routine maintenance in June and July and over the 
+Christmas period. The range may also close at times of high fire risk. 
 
 ## 2024 Open dates
 
